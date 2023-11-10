@@ -16,9 +16,9 @@
 
 ## Модули языка
 
-[4] [Numpy](https://github.com/ShadarRim/SchUniRosatom1/blob/main/03_Numpy.ipynb)
-[5] [Pandas](https://github.com/ShadarRim/SchUniRosatom1/blob/main/04_Pandas.ipynb
-[6] [Matplotlib и визуализация](https://github.com/ShadarRim/SchUniRosatom1/blob/main/05_Matplotlib.ipynb)
+[4] [Numpy](https://github.com/ShadarRim/SchUniRosatom1/blob/main/03_Numpy.ipynb) \
+[5] [Pandas](https://github.com/ShadarRim/SchUniRosatom1/blob/main/04_Pandas.ipynb) \
+[6] [Matplotlib и визуализация](https://github.com/ShadarRim/SchUniRosatom1/blob/main/05_Matplotlib.ipynb) \
 
-[7]	[Контест №2 - Numpy](https://contest.yandex.ru/contest/55700/enter)
-[8]	[Контест №3 - Pandas](https://contest.yandex.ru/contest/55701/enter)
+[7]	[Контест №2 - Numpy](https://contest.yandex.ru/contest/55700/enter) \
+[8]	[Контест №3 - Pandas](https://contest.yandex.ru/contest/55701/enter) \
