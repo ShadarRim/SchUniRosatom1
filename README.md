@@ -8,5 +8,5 @@
 
 ## Основы языка и элементы теории вроятности
 
-[0] [https://github.com/ShadarRim/SchUniRosatom1/blob/main/00_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_1.ipynb]Основы python 
+[0] (Основы python)[https://github.com/ShadarRim/SchUniRosatom1/blob/main/00_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_1.ipynb]
 
