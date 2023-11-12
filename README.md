@@ -22,3 +22,15 @@
 
 [7]	[Контест №2 - Numpy](https://contest.yandex.ru/contest/55700/enter) \
 [8]	[Контест №3 - Pandas](https://contest.yandex.ru/contest/55701/enter) 
+
+# Материалы модулей
+
+## Подводка к машинному обучению
+
+[9] [Обучение на основе вероятностей - условная вероятность](https://github.com/ShadarRim/SchUniRosatom1/blob/main/07_%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.ipynb) \
+[10] [Обучение на основе вероятностей - наивный Баесов классификатор](https://github.com/ShadarRim/SchUniRosatom1/blob/main/08_%D0%9D%D0%B0%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B0%D0%B5%D1%81.ipynb) \
+[11] [Введение в Машинное обуччение](https://github.com/ShadarRim/SchUniRosatom1/blob/main/09_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20ML.pptx) \
+[12] [Градиентный спуск](https://github.com/ShadarRim/SchUniRosatom1/blob/main/10_%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D1%83%D1%81%D0%BA.ipynb) \
+[13] [Градиентный спуск - анимаци для параболы](https://github.com/ShadarRim/SchUniRosatom1/blob/main/10_1_%D0%9F%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D0%BB%D0%B0.gif)
+[14] [Градиентный спуск - анимаци для синуса](https://github.com/ShadarRim/SchUniRosatom1/blob/main/10_2_%D0%A1%D0%B8%D0%BD%D1%83%D1%81.gif)
+[15] [Градиентный спуск - анимация для поверхности](https://github.com/ShadarRim/SchUniRosatom1/blob/main/10_3%20%D0%9F%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%BE%D1%81%D1%82%D1%8C.gif)
